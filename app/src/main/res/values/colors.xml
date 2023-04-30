@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Border">#303030</color>
+    <color name="red">#CD0909</color>
+    <color name="green">#4BAF50</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#808080</color>
+
+    <color name="v1">#000000</color>
+    <color name="v2">#181818</color>
+    <color name="v3">#282828</color>
+    <color name="v4">#282828</color>
+    <color name="v5">#b3b3b3</color>
+    <color name="box">#000000</color>
+
+    <color name="blue">#4188ff</color>
+    <color name="avatar">#649eff</color>
+</resources>
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<resources>-->
+
+
+<!--    <color name="Border">#303030</color>-->
+<!--    <color name="red">#FF0000</color>-->
+<!--    <color name="green">#00FF0A</color>-->
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+<!--    <color name="grey">#808080</color>-->
+
+<!--    <color name="v1">#4188ff</color>-->
+<!--    <color name="v2">#649eff</color>-->
+<!--    <color name="v3">#78aaff</color>-->
+<!--    <color name="v4">#92bbff</color>-->
+<!--    <color name="v5">#accbff</color>-->
+<!--    <color name="box">#FFFF</color>-->
+
+<!--    <color name="blue">#4188ff</color>-->
+<!--    <color name="avatar">#649eff</color>-->
+<!--</resources>-->
